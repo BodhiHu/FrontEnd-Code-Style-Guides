@@ -1,9 +1,7 @@
 # Frontend (Web) Style Guides
 
 The coding styles guides for ES (or Javascript) and react, umijs, .etc
-
-  - [React Style Guides](react/)
-
+<br /><br />
 
 ## ES Style Guides
 
