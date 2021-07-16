@@ -62,7 +62,6 @@ The coding styles guides for ES (or Javascript) and react, umijs, .etc
 
   > official docs: [UmiJS](https://umijs.org), [ant-design](https://ant.design/docs/react/introduce-cn)
 
-
 ## Types
 
   <a name="types--primitives"></a><a name="1.1"></a>
@@ -4507,3 +4506,12 @@ We don’t recommend using indexes for keys if the order of items may change.
 ```
 
 **[⬆ back to top](#umijs-style-guides)**
+
+
+## References
+
+[Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+
+[ReactJS](https://reactjs.org/docs)
+
+[UmiJS](https://umijs.org)
