@@ -3,6 +3,11 @@
 The coding styles guides for ES (or Javascript) and react, umijs, .etc
 <br /><br />
 
+## Git Guideline
+
+  1. [Commit message guideline](#commit-message-guideline)
+
+
 ## ES Style Guides
 
   1. [Types](#types)
@@ -59,6 +64,13 @@ The coding styles guides for ES (or Javascript) and react, umijs, .etc
   1. [Directory Structure](#umi-directory-structure)
 
   > official docs: [UmiJS](https://umijs.org), [ant-design](https://ant.design/docs/react/introduce-cn)
+
+## Commit message guideline
+
+  see
+  > [Commit message 和 Change log 编写指南](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)
+
+**[⬆ back to top](#es-style-guides)**
 
 ## Types
 
